@@ -8,7 +8,8 @@ These are all my designs and if not provided, I've created and designed the foot
 There is much room for optimization as these are functional engineering design models optimized for testing, scale, 
 and lead/lag time for delivery.
 
-I'll add all of my libraries and footprints as needed. I may make a seperate section for them.
+I'll add all of my libraries and footprints as needed. I may make a seperate section for them. If there's microcode/firmware
+or anything software related (like to load on an atmega), I'll add it also.
 
 To run and/or compile, you will need
 * [KiCAD]
