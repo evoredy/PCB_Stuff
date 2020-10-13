@@ -1,0 +1,7 @@
+Reference,Quantity,Identifier,Package,Value,Tolerance,Voltage,Current,Power,PN,Part Number
+J1,1,,,B-B MATE,,,,,,SQT-125-01-F-D
+J5,1,,,USB2_B,,,,,,MUSBRA51140
+J4,1,,,USB2_A,,,,,,MUSBRA51140
+J3,1,,,8P8C,,,,,,MRJR-5481-0F
+J2,1,,,USB3_A_STACKED,,,,,,MUSBR-4593-M0
+J6,1,,,AUDIO,,,,,,57102-G06-04LF
