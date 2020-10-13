@@ -5,8 +5,8 @@ hardware for scientific testing so expect things (but not limited to risers, boa
 related things, and of course car stuff.
 
 These are all my designs and if not provided, I've created and designed the footprints based on specification.
-There is much room for optimization as these are eingineering desing models optimized for testing, scale, and
-lead/lag time for delivery. :)
+There is much room for optimization as these are functional engineering design models optimized for testing, scale, 
+and lead/lag time for delivery.
 
 I'll add all of my libraries and footprints as needed. I may make a seperate section for them.
 
