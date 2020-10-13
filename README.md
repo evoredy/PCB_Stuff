@@ -7,6 +7,6 @@ related things, and of course car stuff.
 I'll add all of my libraries and footprints as needed. I may make a seperate section for them.
 
 To run and/or compile, you will need
-    * [KiCAD]
-    * [A PCB manufacturer]
-    * [Imagination]
+* [KiCAD]
+* [A PCB manufacturer]
+* [Imagination]
