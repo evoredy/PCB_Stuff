@@ -22,8 +22,8 @@ To run and/or compile, you will need
 
 Here's what it looks like
 
-![3D View 1](/images/3d_pic1.jpg)
-![KiCAD PCB View 1](/images/layout_pic.PNG)
+![3D View 1](images/3d_pic1.jpg)
+![KiCAD PCB View 1](images/layout_pic.PNG)
 
 ## Changelog v1.0.0
 ```
