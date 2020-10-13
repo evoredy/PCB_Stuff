@@ -1,57 +1,39 @@
-# Welcome to a README Markdown Template v0.0.2a
+# Welcome to B-Wing Faceplate V1.0.0
 
-This file is to get you started in documenting something quickly and easily for your reference and the user's reference. Include a quick "so what" vignette with any details you wish to share right away.
+The COM Express 10 specification is the smallest industrial board solution. There are ISO certified and perfect
+for satellites, UAS, and automation where SWaP (size, weight, and power) are critical.
 
-This format is in markdown denoted by the ```.md``` or ```.markdown```file extension. Here's a quick guide:
-<https://guides.github.com/features/mastering-markdown/>
+This KiCAD Package included everything to connect to the B-Wing Riser and breaks out important ports with IP67
+Amphenol connectors. Essentially this will turn a COM Express 10 sandwich setup into a low-latency easy to 
+package solution while allowing provisions for IP67 rating.
 
-If required, add a disclaimer like "This is for expiremental use. Please use with caution and understand hardware and software limitations as well as vulnerabilities." 
+What you get (enough to manufacture and test)
+* Gerber Files
+* Drill files (inches and mm)
+* Schematic
+* Bill of Materials (BOM)
+* Some pictures
 
 To run and/or compile, you will need
-* [this]
-* [and this]
-* [don't forget this]
+* a B-Wing Riser board
+* a Connectech CCG020
+* Any COM 10 CPU Module (tested on Intel and AMD)
+* A power source
+* Any supported OS (boards will support booting from USB to start)
 
-## Getting started
+Here's what it looks like
 
-To run and/or compile
-```
-C:\temp>install.bat
-```
+![3D View 1](images/3d_pic1.jpg)
+![3D View 2](images/3d_pic2.jpg)
+![KiCAD PCB View 1](images/layout_pic.PNG)
 
-To run
-```
-C:\temp>start
-```
-
-Notes and Errata:
-
-```
-add something here if there is anything further to explain
-```
-
-Sample output:
-
-```
-add some sample output if needed
-```
-
-## Changelog v0.0.1a
+## Changelog v1.0.0
 ```
   - initial release
-  - don't forget a changelog!
-  - use semantic versioning (it helps track everything)! <https://semver.org/>
 ```
-
-## Changelog v0.0.2a
-```
-  - update your program or project!
-  - don't forget to update the changelog!
-  - added ".markdown" to introduction
-```
-
 ## Known Issues
 ```
-  - add all of your known issues
-  - this helps people either prepare for or continue development
+  - add KiCAD source (don't worry I hate it when people just give the gerbers)
+  - add KiCAD footprints and 3d libraries for anything used
 ```
+
