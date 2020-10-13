@@ -1,7 +1,7 @@
 # Welcome to my PCB Projects
 
 I'll be adding projects here primarily done in KiCAD for anything and everything. I design small form-factor
-hardware for scientific testing so expect things (but not limited to) risers, boards, front-ends, drone/flight
+hardware for scientific testing so expect things like (but not limited to) risers, boards, front-ends, drone/flight
 related things, and of course car stuff.
 
 These are all my designs and if not provided, I've created and designed the footprints based on specification.
