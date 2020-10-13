@@ -3,7 +3,7 @@
 The COM Express 10 specification is the smallest industrial board solution. There are ISO certified and perfect
 for satellites, UAS, and automation where SWaP (size, weight, and power) are critical.
 
-This KiCAD Package included everything to connect to a Connectech <https://connecttech.com/product/com-express-type-10-mini-carrier-board/> CCG020 COM Express® Type 10 Mini Carrier Board (USB 3.0 Version).
+This KiCAD Package includes everything to connect to a Connectech <https://connecttech.com/product/com-express-type-10-mini-carrier-board/> CCG020 COM Express® Type 10 Mini Carrier Board (USB 3.0 Version).
 This riser will relocate everything minus the HDMI/Displayport++ to the pinheaders for ease of integration.
 All schematics are provided and this solution has been tested.
 
