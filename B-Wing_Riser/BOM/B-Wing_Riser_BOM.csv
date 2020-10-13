@@ -1,0 +1,12 @@
+Reference,Quantity,Identifier,Package,Value,Tolerance,Voltage,Current,Power,PN,Part Number
+P1,1,,,B-B MATE,,,,,,877605016
+J7,1,,,USB2.0,,,,,,SQT-104-01-L-D
+J5,1,,,GBE0,,,,,,SQT-105-01-L-D
+J1,1,,,PWR IN,,,,,,SQT-103-01-L-D
+J3,1,,,RS232,,,,,,SQT-105-01-L-D
+J4,1,,,AUDIO,,,,,,SQT-104-01-L-D
+J2,1,,,SYS HDR,,,,,,SQT-110-01-L-D
+J6,1,,,GBE1,,,,,,SQT-105-01-L-D
+P2,1,,,OPTION HDR,,,,,,877605016
+J8,1,,,USB3.0,,,,,,SQT-110-01-L-D
+H1;H2;H3;H4,4,,,2.7mm Hole,,,,,,
